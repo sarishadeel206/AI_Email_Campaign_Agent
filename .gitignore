@@ -1,0 +1,8 @@
+﻿.env
+__pycache__/
+.venv/
+.venv-1/
+venv/
+history.db
+
+IBM Bob/
